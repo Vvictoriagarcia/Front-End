@@ -1,0 +1,57 @@
+
+img {
+    width: 100px;
+}
+header {
+    margin-bottom: 100px;
+    background-color: #e6e6e6;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color:#005677;
+    background-color: #c4c4c4;
+    letter-spacing: 10px;
+    font-style: normal;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color:#005677;
+    background-color: #c4c4c4;
+    letter-spacing: 4px;
+}
+.info {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    letter-spacing: 1px;
+}
+.formacion {
+    font-family: 'Times New Roman', Times, serif;
+    style:'list-style-type: none';
+    letter-spacing: 1px;
+}
+
+footer{
+    margin-bottom: 100px;
+    background-color: #005677;
+    vertical-align: middle;
+    padding: 8px;
+}
+
+.footer{
+    text-align: center;
+    margin-bottom: 100px;
+    color: #FFFF;
+    padding: 8px;
+}
+.instagram {
+    width: 20px;
+}
+.linkedin {
+    width: 20px;
+}
+.numero {
+    letter-spacing: 5px;
+    color:#FFFF;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
